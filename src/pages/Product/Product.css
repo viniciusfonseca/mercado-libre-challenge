@@ -1,0 +1,22 @@
+.item-pic {
+    height: 380px;
+    margin-right: 15px;
+}
+
+.item-buy {
+    background-color: #3283fa;
+    color: #fff;
+    text-transform: uppercase;
+    cursor: pointer;
+    padding: 9px;
+    -webkit-appearance: none;
+    margin-top: 16px;
+    border-radius: 3px;
+    border: none;
+}
+.item-buy:active {
+    background-color: rgb(42, 110, 210);
+}
+.item-buy:focus {
+    outline: none;
+}

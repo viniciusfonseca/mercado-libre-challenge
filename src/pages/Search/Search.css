@@ -1,0 +1,14 @@
+.list-item {
+    height: 180px;
+    padding: 10px;
+    border-bottom: 1px solid #DDD;
+}
+.list-item .thumbnail {
+    width: 140px;
+    height: 100%;
+}
+.list-item .item-link,
+.list-item .item-link:visited
+.list-item .item-link:active {
+    color: black;
+}

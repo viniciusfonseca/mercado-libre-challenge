@@ -6,7 +6,6 @@ Para rodar o projeto:
 git clone https://github.com/viniciusfonseca/mercado-libre-challenge
 cd mercado-libre-challenge
 npm install
-npm start
+npm run build
+npm run start-prod
 ```
-
-Assim, o servidor escutará na porta 3000.
